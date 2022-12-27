@@ -15,30 +15,30 @@ body {
 
 .main {
 	background-color: white;
-	width: 600px;
+	width: 300px;
 	border-radius: 30px;
-	padding: 30px;
+	padding: 16px;
 }
 
 .qrcode-img {
 	border-radius: 25px;
 	width: 100%;
-	margin-bottom: 50px;
+	margin-bottom: 20px;
 }
 
 .main-title {
-	font-size: 42px;
+	font-size: 22px;
 	text-align: center;
 	font-weight: 700;
-	margin-bottom: 40px;
+	margin-bottom: 20px;
 }
 
 .main-text {
-	font-size: 30px;
+	font-size: 15px;
 	text-align: center;
 	color: hsl(220, 15%, 55%);
 	margin: 0 12px;
-	margin-bottom: 40px;
+	margin-bottom: 20px;
 }
 @media (max-width: 600px) {
 	.main {
@@ -52,12 +52,12 @@ body {
 	}
 
 	.main-title {
-		font-size: 20px;
+		font-size: 24px;
 		margin-bottom: 20px;
 	}
 
 	.main-text {
-		font-size: 15px;
+		font-size: 16px;
 		margin-bottom: 20px;
 	}
 }
