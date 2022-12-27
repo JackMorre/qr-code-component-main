@@ -16,12 +16,12 @@ body {
 .main {
 	background-color: white;
 	width: 300px;
-	border-radius: 30px;
+	border-radius: 15px;
 	padding: 16px;
 }
 
 .qrcode-img {
-	border-radius: 25px;
+	border-radius: 10px;
 	width: 100%;
 	margin-bottom: 20px;
 }
